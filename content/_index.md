@@ -4,13 +4,11 @@ toc: false
 ---
 
 <div align="center">
-<h4>
     <a href="https://www.GitHub.com/BlackTechX011/"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
     <span> · </span>
     <a href="https://www.instagram.com/BlackTechX011/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <span> · </span>
     <a href="https://www.youtube.com/@BlackTechX_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  </h4>
 </div>
 
 
@@ -30,7 +28,7 @@ I’m deeply involved in the open-source community, where collaboration and know
 
 <br>
 ___
-<br>
+
 
 
 ## 💻 Tech Stack
