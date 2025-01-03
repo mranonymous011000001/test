@@ -27,8 +27,17 @@ I’m deeply involved in the open-source community, where collaboration and know
 {{< /cards >}}
 
 
+
+# Explore
+
+{{< cards >}}
+  {{< card link="projects" title="Projects" icon="folder" >}}
+  {{< card link="blog" title="Blog" icon="book-open" >}}
+{{< /cards >}}
+
+
 <br>
-___
+
 
 
 
@@ -67,10 +76,7 @@ ___
 ---
 
 
+<br>
 
-# Explore
 
-{{< cards >}}
-  {{< card link="projects" title="Projects" icon="folder" >}}
-  {{< card link="blog" title="Blog" icon="book-open" >}}
-{{< /cards >}}
+
