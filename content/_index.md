@@ -32,16 +32,16 @@ ___
 
 
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
-### Languages & Tools:
+#### Languages & Tools:
 <div align="center">
   
   <img src="https://skillicons.dev/icons?i=python,cpp,javascript,java,cs,go,typescript,php,kotlin,rust,powershell" height="50" alt="Tech Stack" />
 </div>
 <br/>
 
-### Tools:
+#### Tools:
 <div align="center"> 
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,arduino,git" height="50" alt="Tools" />
 </div>
@@ -49,7 +49,7 @@ ___
 
 ---
 
-### ⚡ GitHub Activity & Stats:
+#### ⚡ GitHub Activity & Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackTechX011&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=BlackTechX011&show_icons=true&theme=transparent&rank_icon=github" />
@@ -59,19 +59,18 @@ ___
 
 ---
 
-### 🏆 GitHub Achievements:
+#### 🏆 GitHub Achievements:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BlackTechX011&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies">
 </div>
 
 ---
 
-## Explore
+
+
+# Explore
 
 {{< cards >}}
   {{< card link="projects" title="Projects" icon="folder" >}}
   {{< card link="blog" title="Blog" icon="book-open" >}}
 {{< /cards >}}
-
-
-
