@@ -12,8 +12,9 @@ toc: false
 
 </div>
 
+<br>
 
-{{< card title="" image="https://raw.githubusercontent.com/BlackTechX011/BlackTechX011.github.io/refs/heads/main/assets/skill.svg" >}}
+{{< card title="" image="https://raw.githubusercontent.com/BlackTechX011/BlackTechX011.github.io/refs/heads/main/assets/skill.svg" method="Fit" >}}
 
 ## About me
 I'm a self-taught cybersecurity professional and developer, proficient in C, C++, JavaScript, Shell, Python, and always eager to learn more! I also love AI and cool tech innovations that push boundaries and inspire creativity.
