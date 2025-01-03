@@ -19,37 +19,11 @@ I'm a self-taught cybersecurity professional and developer, proficient in C, C++
 I’m deeply involved in the open-source community, where collaboration and knowledge-sharing are core values. I have gained so much from open-source and enjoy giving back to this vibrant community.
 ## Skills
 {{< cards >}}
-  {{< card title="AI & Machine Learning" icon="sparkles" subtitle="- Natural Language Processing (NLP)  
-- Machine Learning  
-- AI Model Training  
-- Data Analysis  
-- Feature Engineering" >}}
-
-  {{< card title="Programming" icon="code" subtitle="- Java  
-- Python  
-- Shell  
-- C++  
-- C  
-- Constantly Learning More!" >}}
-
-  {{< card title="Cybersecurity" icon="shield-check" subtitle="- Threat Detection  
-- Network Security  
-- Ethical Hacking  
-- Penetration Testing  
-- Social Engineering  
-- Malware Development" >}}
-
-  {{< card title="Web Development" icon="terminal" subtitle="- HTML  
-- CSS  
-- JavaScript  
-- PHP  
-- Full-Stack & Front-End Development" >}}
-
-  {{< card title="Other Skills" icon="light-bulb" subtitle="- Computer Science  
-- Software Development  
-- Project Management  
-- Engineering  
-- Leadership" >}}
+  {{< card title="AI & Machine Learning" icon="sparkles" tag="Expertise" tagType="info" >}}
+  {{< card title="Programming" icon="code" tag="Proficient" tagType="yellow" >}}
+  {{< card title="Cybersecurity" icon="shield-check" tag="Certified" tagType="red" >}}
+  {{< card title="Web Development" icon="terminal" tag="Full-Stack" tagType="blue" >}}
+  {{< card title="Other Skills" icon="light-bulb" tag="Versatile" tagType="gray" >}}
 {{< /cards >}}
 
 
