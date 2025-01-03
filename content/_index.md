@@ -7,6 +7,7 @@ toc: false
 
 <div align="center">
      {{< card link="https://www.GitHub.com/BlackTechX011/" title="GitHub" icon="github" >}}
+     {{< card link="https://x.com/BlackTechX011" title="X-Twitter" icon="x-twitter" >}}
      {{< card link="https://www.instagram.com/BlackTechX011/" title="Instagram" icon="instagram" >}}
      {{< card link="https://www.youtube.com/@BlackTechX_" title="YouTube" icon="youtube" >}}
 
