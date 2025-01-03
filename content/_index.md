@@ -3,6 +3,8 @@ title: Welcome, I'm BlackTechX!
 toc: false
 ---
 
+<br>
+
 <div align="center">
      {{< card link="https://www.GitHub.com/BlackTechX011/" title="GitHub" icon="github" >}}
      {{< card link="https://www.instagram.com/BlackTechX011/" title="Instagram" icon="instagram" >}}
