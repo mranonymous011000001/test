@@ -13,6 +13,8 @@ toc: false
 </div>
 
 
+{{< card title="" image="https://raw.githubusercontent.com/BlackTechX011/BlackTechX011.github.io/refs/heads/main/assets/skill.svg" >}}
+
 ## About me
 I'm a self-taught cybersecurity professional and developer, proficient in C, C++, JavaScript, Shell, Python, and always eager to learn more! I also love AI and cool tech innovations that push boundaries and inspire creativity.
 I’m deeply involved in the open-source community, where collaboration and knowledge-sharing are core values. I have gained so much from open-source and enjoy giving back to this vibrant community.
