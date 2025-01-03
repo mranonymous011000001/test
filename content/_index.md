@@ -4,11 +4,10 @@ toc: false
 ---
 
 <div align="center">
-    <a href="https://www.GitHub.com/BlackTechX011/"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <span> · </span>
-    <a href="https://www.instagram.com/BlackTechX011/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <span> · </span>
-    <a href="https://www.youtube.com/@BlackTechX_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+     {{< card link="https://www.GitHub.com/BlackTechX011/" title="GitHub" icon="github" >}}
+     {{< card link="https://www.instagram.com/BlackTechX011/" title="Instagram" icon="instagram" >}}
+     {{< card link="https://www.youtube.com/@BlackTechX_" title="YouTube" icon="youtube" >}}
+
 </div>
 
 
