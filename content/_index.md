@@ -1,5 +1,5 @@
 ---
-title: Welcome, I'm BlackTechX!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+title: Welcome, I'm BlackTechX!
 toc: false
 ---
 
@@ -17,6 +17,7 @@ toc: false
 ## About me
 I'm a self-taught cybersecurity professional and developer, proficient in C, C++, JavaScript, Shell, Python, and always eager to learn more! I also love AI and cool tech innovations that push boundaries and inspire creativity.
 I’m deeply involved in the open-source community, where collaboration and knowledge-sharing are core values. I have gained so much from open-source and enjoy giving back to this vibrant community.
+
 ## Skills
 {{< cards >}}
   {{< card title="AI & Machine Learning" icon="sparkles" tag="Expertise" tagType="info" >}}
@@ -27,12 +28,12 @@ I’m deeply involved in the open-source community, where collaboration and know
 {{< /cards >}}
 
 
-
-# 💻 Tech Stack
+___
+## 💻 Tech Stack
 
 ### Languages & Tools:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,cs,py,c,nodejs,linux,bash" height="50" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,java,cs,go,typescript,php,kotlin,rust,powershell" height="50" alt="Tech Stack" />
 </div>
 <br/>
 
@@ -60,22 +61,6 @@ I’m deeply involved in the open-source community, where collaboration and know
 </div>
 
 ---
-
-### 📊 Skill Proficiency
-<div align="center">
-  
-#### Languages:
-![C++](https://img.shields.io/badge/C++-90%25-brightgreen?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-85%25-yellowgreen?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-75%25-lightgreen?style=for-the-badge&logo=linux&logoColor=white)
-
-#### Tools & Frameworks:
-![VS Code](https://img.shields.io/badge/VS%20Code-90%25-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-80%25-lightblue?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-85%25-orange?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
 
 ## Explore
 
