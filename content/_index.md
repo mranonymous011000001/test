@@ -33,6 +33,7 @@ ___
 
 ### Languages & Tools:
 <div align="center">
+  {{< card title="Languages" image="https://skillicons.dev/icons?i=python,cpp,javascript,java,cs,go,typescript,php,kotlin,rust,powershell">}}
   <img src="https://skillicons.dev/icons?i=python,cpp,javascript,java,cs,go,typescript,php,kotlin,rust,powershell" height="50" alt="Tech Stack" />
 </div>
 <br/>
